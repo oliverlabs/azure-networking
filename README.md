@@ -1,5 +1,7 @@
 # A Curated List of Azure Networking Resources
 
+## GitHub Resources
+
 1. [Enterprise-class networking in Azure - Hands-on Lab][def]
    
    In this workshop, you will learn to setup and configure a virtual network with subnets in Azure. You will learn how to secure the virtual network by deploying a network virtual appliance and configure firewall rules and route tables. Additionally, you will set up access to the virtual network with a jump box and a site-to-site VPN connection.
