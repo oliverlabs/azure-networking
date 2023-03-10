@@ -52,6 +52,36 @@ Here is a list of Microsoft Azure services that can be used to demonstrate netwo
 - Network Security Checklist
 - Azure VirtualWAN
   
+# Microsoft Certification
+## Learning Path
+Here is a link to [AZ-700: Microsoft Azure Networking Technologies][def16] learning path on Microsoft Learn.
+
+## Exam 
+Link to the [AZ-700][def17] exam.
+
+## Study Guide
+[AZ-700 Study Guide][def18] should help you understand what to expect on the exam. It includes a summary of the topics the exam might cover and links to additional resources.
+
+
+# Noteable Articles
+A collection of weekly Networking articles and resources worth reading:
+## March 2023 
+- [Azure vWAN - A RED & BLUE puzzle solved with Virtual Network Manager][def22]
+
+# Noteable YouTube Channels
+
+## Adam Stuart
+[Link to the YouTube Channel][def19]
+
+## John Savill
+[Link to the YouTube Channel][def19]
+
+## Nehali Neogi
+[Link to the YouTube Channel][def19]
+
+
+<!-- Links -->
+
 [def]: https://github.com/microsoft/MCW-Enterprise-class-networking
 [def2]: https://github.com/dawlysd/azure-dns-private-resolver-microhack
 [def3]: https://github.com/mddazure/dns-resolver-lab
@@ -69,31 +99,8 @@ Here is a list of Microsoft Azure services that can be used to demonstrate netwo
 [def16]: https://learn.microsoft.com/en-gb/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/
 [def17]: https://learn.microsoft.com/en-gb/certifications/exams/az-700
 [def18]: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
-
-# Microsoft Certification
-## Learning Path
-Here is a link to [AZ-700: Microsoft Azure Networking Technologies][def16] learning path on Microsoft Learn.
-
-## Exam 
-Link to the [AZ-700][def17] exam.
-
-## Study Guide
-[AZ-700 Study Guide][def18] should help you understand what to expect on the exam. It includes a summary of the topics the exam might cover and links to additional resources.
-
-
-# Noteable YouTube Channels
-
-## Adam Stuart
-[Link to the YouTube Channel][def19]
-
 [def19]: https://www.youtube.com/@AdamStuart1
-
-## John Savill
-[Link to the YouTube Channel][def19]
-
 [def20]: https://www.youtube.com/@NTFAQGuy
-
-## Nehali Neogi
-[Link to the YouTube Channel][def19]
-
 [def21]: https://www.youtube.com/@nehalineogi
+[def22]: https://github.com/Danieleg82/vWAN-and-AVNM-For-Red-Blue/blob/main/README.md
+
