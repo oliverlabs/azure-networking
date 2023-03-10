@@ -70,15 +70,11 @@ A collection of weekly Networking articles and resources worth reading:
 
 # Noteable YouTube Channels
 
-## Adam Stuart
-[Link to the YouTube Channel][def19]
+- [Adam Stuart][def19]
 
-## John Savill
-[Link to the YouTube Channel][def19]
+- [John Savill][def19]
 
-## Nehali Neogi
-[Link to the YouTube Channel][def19]
-
+- [Nehali Neogi][def19]
 
 <!-- Links -->
 
