@@ -2,7 +2,7 @@
 
 ## GitHub Resources
 
-1. [Enterprise-class networking in Azure - Hands-on Lab][def]
+1. [Enterprise-class networking in Azure - Hands-on Lab][def1]
    
    In this workshop, you will learn to setup and configure a virtual network with subnets in Azure. You will learn how to secure the virtual network by deploying a network virtual appliance and configure firewall rules and route tables. Additionally, you will set up access to the virtual network with a jump box and a site-to-site VPN connection.
    
@@ -33,6 +33,8 @@
       This repo provides Terraform templates for a dual-region hub and spoke topology, connected to simulated on-prem datacenters.
 
 14. [Private DNS Resolver with Forwarding Rules (Bicep)][def14]
+
+15. [Private Link/Endpoint DNS Integration Resources][def23]
 
 
 # Azure Networking Services
@@ -78,7 +80,7 @@ A collection of weekly Networking articles and resources worth reading:
 
 <!-- Links -->
 
-[def]: https://github.com/microsoft/MCW-Enterprise-class-networking
+[def1]: https://github.com/microsoft/MCW-Enterprise-class-networking
 [def2]: https://github.com/dawlysd/azure-dns-private-resolver-microhack
 [def3]: https://github.com/mddazure/dns-resolver-lab
 [def4]: https://github.com/Azure/terraform-azurerm-network/blob/main/examples/startup/main.tf
@@ -99,4 +101,4 @@ A collection of weekly Networking articles and resources worth reading:
 [def20]: https://www.youtube.com/@NTFAQGuy
 [def21]: https://www.youtube.com/@nehalineogi
 [def22]: https://github.com/Danieleg82/vWAN-and-AVNM-For-Red-Blue/blob/main/README.md
-
+[def23]: https://github.com/dmauser/PrivateLink
