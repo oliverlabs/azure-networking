@@ -69,14 +69,15 @@ Link to the [AZ-700][def17] exam.
 A collection of weekly Networking articles and resources worth reading:
 ## March 2023 
 - [Azure vWAN - A RED & BLUE puzzle solved with Virtual Network Manager][def22]
+- [Azure Network Security webinar: Content Inspection Using TLS Termination with Azure Firewall Premium][def24]
 
 # Noteable YouTube Channels
 
 - [Adam Stuart][def19]
 
-- [John Savill][def19]
+- [John Savill][def20]
 
-- [Nehali Neogi][def19]
+- [Nehali Neogi][def21]
 
 <!-- Links -->
 
@@ -92,7 +93,7 @@ A collection of weekly Networking articles and resources worth reading:
 [def10]: https://github.com/Azure/Azure-Network-Security/tree/master/Lab%20Templates
 [def11]: https://github.com/mattfeltonma/azure-network-journey
 [def12]: https://github.com/adstuart/azure-privatelink-dns-microhack
-[def13]: https://github.com/adstuart/azure-privatelink-dns-microhack
+[def13]: https://github.com/fguerri/hubandspokelab
 [def14]: https://github.com/mddazure/dns-resolver-lab
 [def16]: https://learn.microsoft.com/en-gb/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/
 [def17]: https://learn.microsoft.com/en-gb/certifications/exams/az-700
@@ -102,3 +103,4 @@ A collection of weekly Networking articles and resources worth reading:
 [def21]: https://www.youtube.com/@nehalineogi
 [def22]: https://github.com/Danieleg82/vWAN-and-AVNM-For-Red-Blue/blob/main/README.md
 [def23]: https://github.com/dmauser/PrivateLink
+[def24]: https://www.youtube.com/watch?v=A-hWyZZsFVY&t=1s&ab_channel=MicrosoftSecurityCommunity
