@@ -36,6 +36,8 @@
 
 15. [Private Link/Endpoint DNS Integration Resources][def23]
 
+16. [Azure Virtual Network Manager Hands-on Lab][def25]
+
 
 # Azure Networking Services
 
@@ -51,6 +53,7 @@ Here is a list of Microsoft Azure services that can be used to demonstrate netwo
 - Azure Front Door
 - Azure Traffic Manager
 - Azure Network Watcher
+- Azure Virtual Network Manager
 - Network Security Checklist
 - Azure VirtualWAN
   
@@ -104,3 +107,4 @@ A collection of weekly Networking articles and resources worth reading:
 [def22]: https://github.com/Danieleg82/vWAN-and-AVNM-For-Red-Blue/blob/main/README.md
 [def23]: https://github.com/dmauser/PrivateLink
 [def24]: https://www.youtube.com/watch?v=A-hWyZZsFVY&t=1s&ab_channel=MicrosoftSecurityCommunity
+[def25]: https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
