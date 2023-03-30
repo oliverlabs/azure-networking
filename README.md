@@ -1,5 +1,7 @@
 # A Curated List of Azure Networking Resources
 
+These resources can be used to prepare for your AZ-700 exam or simply to get more familiar with networking concepts in Microsoft Azure. Enjoy!
+
 ## GitHub Resources
 
 1. [Enterprise-class networking in Azure - Hands-on Lab][def1]
