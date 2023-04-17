@@ -42,6 +42,7 @@ Enjoy! :roller_coaster:
 
 16. [Azure Virtual Network Manager Hands-on Lab][def25]
 
+17. [vWAN and AVNM for Red/Blue Scenarios][def26]
 
 # Azure Networking Services
 
@@ -112,3 +113,4 @@ A collection of weekly Networking articles and resources worth reading:
 [def23]: https://github.com/dmauser/PrivateLink
 [def24]: https://www.youtube.com/watch?v=A-hWyZZsFVY&t=1s&ab_channel=MicrosoftSecurityCommunity
 [def25]: https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
+[def26]: https://github.com/Danieleg82/vWAN-and-AVNM-For-Red-Blue
