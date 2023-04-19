@@ -4,6 +4,11 @@ The resources linked in this repo can be used to prepare for your AZ-700 exam or
 
 Enjoy! :roller_coaster:
 
+## Blogs
+
+1. [MS Tech Community: Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
+2. [Azure Network Security - Interactive Guide](https://mslearn.cloudguides.com/guides/Azure%20network%20security)
+
 ## GitHub Resources
 
 1. [Enterprise-class networking in Azure - Hands-on Lab][def1]
