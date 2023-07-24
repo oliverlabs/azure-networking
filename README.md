@@ -48,6 +48,7 @@ Enjoy! :roller_coaster:
 16. [Azure Virtual Network Manager Hands-on Lab][def25]
 
 17. [vWAN and AVNM for Red/Blue Scenarios][def26]
+18. [Azure Virtual WAN Labs by dmauser](https://github.com/dmauser/azure-virtualwan/tree/main)
 
 # Azure Networking Services
 
