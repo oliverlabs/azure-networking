@@ -49,6 +49,8 @@ Enjoy! :roller_coaster:
 
 17. [vWAN and AVNM for Red/Blue Scenarios][def26]
 18. [Azure Virtual WAN Labs by dmauser](https://github.com/dmauser/azure-virtualwan/tree/main)
+19. [Global Secure Access With Microsoft Security Service Edge (SSE)](https://www.youtube.com/watch?v=W2wM774n6Nc)
+
 
 # Azure Networking Services
 
