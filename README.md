@@ -4,6 +4,8 @@ The resources linked in this repo can be used to prepare for your AZ-700 exam or
 
 Enjoy! :roller_coaster:
 
+[![Markdown Link Checker](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml)
+
 ## Blogs
 
 1. [MS Tech Community: Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
