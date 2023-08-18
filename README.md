@@ -4,6 +4,7 @@ The resources linked in this repo can be used to prepare for your AZ-700 exam or
 
 Enjoy! :roller_coaster:
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Markdown Link Checker](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/oliverlabs/azure-networking/actions/workflows/markdown-link-checker.yml)
 
 ## Blogs
