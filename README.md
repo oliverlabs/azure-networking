@@ -53,6 +53,7 @@ Enjoy! :roller_coaster:
 17. [vWAN and AVNM for Red/Blue Scenarios][def26]
 18. [Azure Virtual WAN Labs by dmauser](https://github.com/dmauser/azure-virtualwan/tree/main)
 19. [Global Secure Access With Microsoft Security Service Edge (SSE)](https://www.youtube.com/watch?v=W2wM774n6Nc)
+20. [Azure Network Security - Use Azure Firewall as a DNS Proxy in a Hub and Spoke topology along with Private Endpoints](https://github.com/Azure/Azure-Network-Security/tree/master/Azure%20Firewall/Template%20-%20Azure%20Firewall%20as%20a%20DNS%20Proxy%20in%20Hub%20and%20Spoke%20topology)
 
 
 # Azure Networking Services
