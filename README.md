@@ -87,9 +87,17 @@ Link to the [AZ-700][def17] exam.
 
 # Noteable Articles
 A collection of weekly Networking articles and resources worth reading:
+
+## December 2023
+- [Use a cloud native DNS resolver in Azure][def29]
+
+## September 2023
+- [Using DNS in Azure IaaS][def28]
+
 ## March 2023 
 - [Azure vWAN - A RED & BLUE puzzle solved with Virtual Network Manager][def22]
 - [Azure Network Security webinar: Content Inspection Using TLS Termination with Azure Firewall Premium][def24]
+- [Use traffic analytics to spot common azure network mistakes][def27]
 
 # Noteable YouTube Channels
 
@@ -126,3 +134,6 @@ A collection of weekly Networking articles and resources worth reading:
 [def24]: https://www.youtube.com/watch?v=A-hWyZZsFVY&t=1s&ab_channel=MicrosoftSecurityCommunity
 [def25]: https://github.com/adtork/Lab-Azure-Virtual-Network-Manager
 [def26]: https://github.com/Danieleg82/vWAN-and-AVNM-For-Red-Blue
+[def27]: https://autosysops.com/blog/use-traffic-analytics-to-spot-common-azure-network-mistakes
+[def28]: https://autosysops.com/blog/azure-dns-explained
+[def29]: https://autosysops.com/blog/cloud-native-dns-resolver-in-azure
