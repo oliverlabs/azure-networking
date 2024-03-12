@@ -88,6 +88,9 @@ Link to the [AZ-700][def17] exam.
 # Noteable Articles
 A collection of weekly Networking articles and resources worth reading:
 
+## March 2024
+- [Use Azure cloud native DNS resolver for split horizon][def30]
+
 ## December 2023
 - [Use a cloud native DNS resolver in Azure][def29]
 
@@ -137,3 +140,4 @@ A collection of weekly Networking articles and resources worth reading:
 [def27]: https://autosysops.com/blog/use-traffic-analytics-to-spot-common-azure-network-mistakes
 [def28]: https://autosysops.com/blog/azure-dns-explained
 [def29]: https://autosysops.com/blog/cloud-native-dns-resolver-in-azure
+[def30]: https://autosysops.com/blog/use-azure-cloud-native-dns-resolver-for-split-horizon
