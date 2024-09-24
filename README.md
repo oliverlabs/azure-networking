@@ -55,6 +55,7 @@ Enjoy! :roller_coaster:
 19. [Global Secure Access With Microsoft Security Service Edge (SSE)](https://www.youtube.com/watch?v=W2wM774n6Nc)
 20. [Azure Network Security - Use Azure Firewall as a DNS Proxy in a Hub and Spoke topology along with Private Endpoints](https://github.com/Azure/Azure-Network-Security/tree/master/Azure%20Firewall/Template%20-%20Azure%20Firewall%20as%20a%20DNS%20Proxy%20in%20Hub%20and%20Spoke%20topology)
 21. [ESU enabled by Azure Arc, Network Considerations](https://github.com/adstuart/azure-arc-esu)
+22. [AVS Enterprise-Scale Networking](https://github.com/Azure/Enterprise-Scale-for-AVS/tree/main)
 
 # Azure Networking Services
 
